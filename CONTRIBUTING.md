@@ -14,7 +14,7 @@ Follow the existing format of markdown and code. JavaScript code added should ad
 
 ### Translations
 
-Feel free to add translations for the questions and answers only. You can retrieve a translated copy of the questions from [the original repository](https://github.com/h5bp/Front-end-Developer-Interview-Questions) and start from there. Simply create an issue expressing interest in being a translator and you can fork the repository and start translating. Translators have the responsibility of keeping the translated content up to date with the master copy. Translated work has to go through the Pull Request and review process before it can be merged into the repository. This is more for organizational purposes as different translators tend to have individual collaboration approach (some prefer merging, some prefer rebasing). Going through a Pull Request process will make the commit history more organized and clean.
+Feel free to add translations for the questions and answers only. You can retrieve a translated copy of the questions from [the original repository](https://github.com/h5bp/Front-end-Developer-Interview-Questions) and start from there. Simply create an issue expressing interest in being a translator and you can fork the repository and start translating. Translators have the responsibility of keeping the translated content up to date with the master copy. Translated work has to go through the Pull Request and review process before it can be merged into the repository. This is more for organizational purposes as different translators tend to have individual collaboration approaches (some prefer merging, some prefer rebasing). Going through a Pull Request process will make the commit history more organized and clean.
 
 ### Code of Conduct
 
